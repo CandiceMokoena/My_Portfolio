@@ -80,6 +80,18 @@ header {
   border: 3px double #eee7ce;
   padding: 10px 50px;
 }
+.who a {
+  color: #eee7ce;
+  text-decoration: none;
+}
+.who:hover {
+  background-color: #eee7ce;
+  transition: all 200ms ease-in-out;
+}
+.who a:hover {
+  color: rgb(35, 9, 31);
+}
+
 .big {
   display: flex;
   justify-content: space-around;
@@ -116,7 +128,7 @@ h3 {
 .type {
   font-size: 20px;
 }
-.background {
+.Background {
   display: flex;
   justify-content: space-between;
   margin: 85px;
