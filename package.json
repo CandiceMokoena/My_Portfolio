@@ -1,0 +1,26 @@
+{
+  "name": "teballo-portfolio",
+  "version": "1.0.0",
+  "description": "Teballo Candice Mokoena's Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CandiceMokoena/teballo-portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "web development",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Teballo Candice Mokoena",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
